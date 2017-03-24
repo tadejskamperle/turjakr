@@ -8,3 +8,4 @@ se vrstica alfa
 tudi beta
 vrstica gama
 epsilon
+gipsilon
